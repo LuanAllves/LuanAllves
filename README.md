@@ -1,19 +1,36 @@
-## Bem-vindo(a) ao perfil do Luan Allves
 
- <div>
-   <a href="https://github.com/LuanAllves">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanAllves&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAllves&layout=compact&langs_count=6&theme=onedark"/>
+# Olá, eu sou o Luan Alves! 👋
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<br>
-<div> 
-  <a href = "mailto:luancristianrodriguesalves@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/LuanAllves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### 🎓 Estudante de ADS
+Bem-vindo ao meu espaço de aprendizado! Aqui no GitHub, documento minha evolução técnica, experimentos com novas tecnologias e projetos acadêmicos.
+
+---
+
+[![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuanAllves&locale=pt-br&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LuanAllves/github-readme-stats#gh-dark-mode-only)
+
+[![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAllves&locale=pt-br&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/LuanAllves/github-readme-stats#gh-dark-mode-only)
+
+---
+
+### 🚀 Sobre mim
+- 🏫 Atualmente cursando na **Afya**.
+- 💡 Foco atual: **Desenvolvimento Web e Sistemas**.
+- 🌱 Aprendendo: **Java**.
+- 📫 Como me encontrar: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-cristian) [![gmail](https://img.shields.io/badge/-Gmail-%6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luancristianrodriguesalves@gmail.com)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+Aqui estão as ferramentas que utilizo nos meus estudos e projetos:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,java)](https://skillicons.dev)
+
+---
+
+### 📂 Projetos em Destaque
+1. **[Signage Digital]**: Gerenciamento de midias para telas OOH. *(Tecnologias: Python e PySide6)*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanAllves&repo=SignageDigital&show_owner=true&locale=pt-br&description_lines_count=2)](https://github.com/LuanAllves/SignageDigital)
+
+---
+
+#### *"A melhor forma de aprender é construindo e compartilhando."*
