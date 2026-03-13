@@ -29,7 +29,7 @@ Aqui estão as ferramentas que utilizo nos meus estudos e projetos:
 
 ### 📂 Projetos em Destaque
 1. **[Signage Digital]**: Gerenciamento de midias para telas OOH. *(Tecnologias: Python e PySide6)*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanAllves&repo=SignageDigital&show_owner=true&locale=pt-br&description_lines_count=2)](https://github.com/LuanAllves/SignageDigital)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanAllves&repo=SignageDigital&show_owner=true&locale=pt-br&description_lines_count=2&theme=dark)](https://github.com/LuanAllves/SignageDigital)
 
 ---
 
