@@ -6,9 +6,9 @@ Bem-vindo ao meu espaço de aprendizado! Aqui no GitHub, documento minha evoluç
 
 ---
 
-[![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuanAllves&locale=pt-br&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LuanAllves/github-readme-stats#gh-dark-mode-only)
+![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuanAllves&locale=pt-br&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAllves&locale=pt-br&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/LuanAllves/github-readme-stats#gh-dark-mode-only)
+![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAllves&locale=pt-br&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)
 
 ---
 
