@@ -6,9 +6,7 @@ Bem-vindo ao meu espaço de aprendizado! Aqui no GitHub, documento minha evoluç
 
 ---
 
-![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuanAllves&locale=pt-br&show_icons=true&theme=dark#gh-dark-mode-only)
-
-![Luan Alves GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanAllves&locale=pt-br&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LuanAllves&theme=dark&locale=pt-BR)](https://git.io/streak-stats)
 
 ---
 
@@ -29,7 +27,6 @@ Aqui estão as ferramentas que utilizo nos meus estudos e projetos:
 
 ### 📂 Projetos em Destaque
 1. **[Signage Digital]**: Gerenciamento de midias para telas OOH. *(Tecnologias: Python e PySide6)*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanAllves&repo=SignageDigital&show_owner=true&locale=pt-br&description_lines_count=2&theme=dark)](https://github.com/LuanAllves/SignageDigital)
 
 ---
 
