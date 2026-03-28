@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Luan Alves! 👋
 
-### 🎓 Estudante de ADS
+### 🎓 Estudante
 Bem-vindo ao meu espaço de aprendizado! Aqui no GitHub, documento minha evolução técnica, experimentos com novas tecnologias e projetos acadêmicos.
 
 ---
@@ -13,9 +13,9 @@ Bem-vindo ao meu espaço de aprendizado! Aqui no GitHub, documento minha evoluç
 ---
 
 ### 🚀 Sobre mim
-- 🏫 Atualmente cursando na **Afya**.
-- 💡 Foco atual: **Desenvolvimento Web e Sistemas**.
-- 🌱 Aprendendo: **Java**.
+- 🏫 Atualmente estudando na DIO.
+- 💡 Foco atual: **Formação FullStack**.
+- 🌱 Aprendendo: **Python**.
 - 📫 Como me encontrar: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-cristian) [![gmail](https://img.shields.io/badge/-Gmail-%6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luancristianrodriguesalves@gmail.com)
 
 ---
@@ -23,7 +23,7 @@ Bem-vindo ao meu espaço de aprendizado! Aqui no GitHub, documento minha evoluç
 ### 🛠️ Tecnologias e Ferramentas
 Aqui estão as ferramentas que utilizo nos meus estudos e projetos:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
 ---
 
